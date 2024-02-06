@@ -1,0 +1,12 @@
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\bin\Debug\States.accdb
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\bin\Debug\Alex-Carter-CPT-206-States-HomeWork.exe.config
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\bin\Debug\Alex-Carter-CPT-206-States-HomeWork.exe
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\bin\Debug\Alex-Carter-CPT-206-States-HomeWork.pdb
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\obj\Debug\Alex-Carter-CPT-206-States-HomeWork.csproj.AssemblyReference.cache
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\obj\Debug\Alex_Carter_CPT_206_States_HomeWork.Form1.resources
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\obj\Debug\Alex_Carter_CPT_206_States_HomeWork.Properties.Resources.resources
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\obj\Debug\Alex-Carter-CPT-206-States-HomeWork.csproj.GenerateResource.cache
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\obj\Debug\Alex-Carter-CPT-206-States-HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\obj\Debug\Alex-Carter-CPT-206-States-HomeWork.exe
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\obj\Debug\Alex-Carter-CPT-206-States-HomeWork.pdb
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-States-HomeWork\obj\Debug\Alex_Carter_CPT_206_States_HomeWork.Form2.resources
