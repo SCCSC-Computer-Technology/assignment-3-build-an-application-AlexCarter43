@@ -1,0 +1,5 @@
+Code Review for AlexCarter
+
+On opening the program I like that the GUI was clean and simple for users to follow. The background color was clean and made the test easy to read. The instructions were clear and concise for the user to follow. I think the datagrid was well populated and the font and size of the text was easy to read. 
+
+I liked the custom error message to catch if the comboBox didn't load properly as well. I didn't know you could add icons to the messageBox I will look into using this feature in the future. The code is clean and I have found no redundancies.
