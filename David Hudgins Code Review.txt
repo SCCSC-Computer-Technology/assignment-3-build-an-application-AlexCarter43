@@ -1,0 +1,11 @@
+The code compiles fine with no errors. The datagrid is populated with all 50 rows and all columns on startup.
+The code is readable with descriptive names given to controls and methods.
+I noticed there are no comments, but given how things are given meaningful names, it not that big of a deal; plus I am guilty of it too.
+There is not any sorting, filtering, updating, or searching built in yet, except what is native to the dataGrid.
+I like that the state details come up immediately when selected in the comboBox instead of having to hit another button. Makes it more intuitive.
+I wish I had also done my state info form with populated fields like you did.
+Good job giving the connectionString a generic reference that works on other people's machines.
+I saw that a couple of people explicitely named their local file structure, which throws errors on other machines.
+I like your implementation of the state info screen over mine. Your's looks better with populated labels and fields.
+I opted to just show another datagrid with only the selected state showing, which is pretty boring.
+I think from what you have already, you could easily implement some more buttons for advanced searching/filtering.
